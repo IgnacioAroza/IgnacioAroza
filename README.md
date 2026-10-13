@@ -44,7 +44,7 @@ Working as an independent **Software Developer**.
       <h3>MiamiGetAway</h3>
       <p>Rental and booking platform for apartments, villas, yachts and cars in Miami. Public site plus admin panel for reservations, payments, PDFs, email and Google reviews sync. Bilingual ES/EN.</p>
       <p><img src="https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
-      <p><a href="https://github.com/IgnacioAroza/MiamiGetAwayBack"><img src="https://img.shields.io/badge/GitHub-MiamiGetAwayBack-181717?style=flat-square&logo=github" alt="MiamiGetAwayBack" /></a> <a href="https://github.com/IgnacioAroza/MiamiGetAwayFront"><img src="https://img.shields.io/badge/GitHub-MiamiGetAwayFront-181717?style=flat-square&logo=github" alt="MiamiGetAwayFront" /></a></p>
+      <p><a href="https://miami-getaway.com"><img src="https://img.shields.io/badge/live-miami--getaway.com-0ea5e9?style=flat-square" alt="miami-getaway.com" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Objectives_App</h3>
@@ -146,7 +146,7 @@ Trabajo de forma independiente como **Software Developer**.
       <h3>MiamiGetAway</h3>
       <p>Plataforma de alquileres y reservas de departamentos, villas, yates y autos en Miami. Sitio público más panel admin para reservas, pagos, PDFs, emails y reseñas de Google. Bilingüe ES/EN.</p>
       <p><img src="https://img.shields.io/badge/Express-404040?style=flat-square&logo=express&logoColor=white" alt="Express" /> <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=white" alt="React" /> <img src="https://img.shields.io/badge/Redux-764ABC?style=flat-square&logo=redux&logoColor=white" alt="Redux" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
-      <p><a href="https://github.com/IgnacioAroza/MiamiGetAwayBack"><img src="https://img.shields.io/badge/GitHub-MiamiGetAwayBack-181717?style=flat-square&logo=github" alt="MiamiGetAwayBack" /></a> <a href="https://github.com/IgnacioAroza/MiamiGetAwayFront"><img src="https://img.shields.io/badge/GitHub-MiamiGetAwayFront-181717?style=flat-square&logo=github" alt="MiamiGetAwayFront" /></a></p>
+      <p><a href="https://miami-getaway.com"><img src="https://img.shields.io/badge/live-miami--getaway.com-0ea5e9?style=flat-square" alt="miami-getaway.com" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Objectives_App</h3>
