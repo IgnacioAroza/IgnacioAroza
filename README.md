@@ -6,8 +6,6 @@ I build production web systems: booking platforms, multi-tenant SaaS and point-o
 
 **[Organia →](https://organia.com.ar)**
 
-<img src="https://img.shields.io/badge/status-open%20to%20freelance-22c55e?style=for-the-badge&labelColor=111827" alt="open to freelance" />
-
 ---
 
 ## Now
@@ -20,7 +18,7 @@ I build production web systems: booking platforms, multi-tenant SaaS and point-o
   </tr>
 </table>
 
-Working as an independent **Software Developer**, open to freelance work and collaborations: [ignacioaroza.ia@gmail.com](mailto:ignacioaroza.ia@gmail.com)
+Working as an independent **Software Developer**.
 
 ---
 
@@ -32,7 +30,7 @@ Working as an independent **Software Developer**, open to freelance work and col
       <h3>Transporte</h3>
       <p>Multi-tenant SaaS for small transport companies: trips, per-trip expenses and roles (admin, driver, accountant). Moving a 5-microservice backend to a NestJS modular monolith.</p>
       <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
-      <p><img src="https://img.shields.io/badge/repo-private-6b7280?style=flat-square" alt="private repo" /> <a href="https://transporte-web-sable.vercel.app"><img src="https://img.shields.io/badge/live-demo-0ea5e9?style=flat-square" alt="live demo" /></a></p>
+      <p><img src="https://img.shields.io/badge/repo-private-6b7280?style=flat-square" alt="private repo" /> <a href="https://transporte.organia.com.ar/"><img src="https://img.shields.io/badge/live-demo-0ea5e9?style=flat-square" alt="live demo" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Sistema de Ventas · Feria</h3>
@@ -110,8 +108,6 @@ Construyo sistemas web en producción: plataformas de reservas, SaaS multi-tenan
 
 **[Organia →](https://organia.com.ar)**
 
-<img src="https://img.shields.io/badge/status-open%20to%20freelance-22c55e?style=for-the-badge&labelColor=111827" alt="open to freelance" />
-
 ---
 
 ## Ahora
@@ -124,7 +120,7 @@ Construyo sistemas web en producción: plataformas de reservas, SaaS multi-tenan
   </tr>
 </table>
 
-Trabajo de forma independiente como **Software Developer**, disponible para proyectos freelance y colaboraciones: [ignacioaroza.ia@gmail.com](mailto:ignacioaroza.ia@gmail.com)
+Trabajo de forma independiente como **Software Developer**.
 
 ---
 
@@ -136,7 +132,7 @@ Trabajo de forma independiente como **Software Developer**, disponible para proy
       <h3>Transporte</h3>
       <p>SaaS multi-tenant para empresas de transporte chicas: viajes, gastos por viaje y roles (admin, chofer, contador). Migración de 5 microservicios a un monolito modular en NestJS.</p>
       <p><img src="https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" /> <img src="https://img.shields.io/badge/NestJS-E0234E?style=flat-square&logo=nestjs&logoColor=white" alt="NestJS" /> <img src="https://img.shields.io/badge/Prisma-2D3748?style=flat-square&logo=prisma&logoColor=white" alt="Prisma" /> <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" alt="PostgreSQL" /></p>
-      <p><img src="https://img.shields.io/badge/repo-private-6b7280?style=flat-square" alt="private repo" /> <a href="https://transporte-web-sable.vercel.app"><img src="https://img.shields.io/badge/live-demo-0ea5e9?style=flat-square" alt="live demo" /></a></p>
+      <p><img src="https://img.shields.io/badge/repo-private-6b7280?style=flat-square" alt="private repo" /> <a href="https://transporte.organia.com.ar/"><img src="https://img.shields.io/badge/live-demo-0ea5e9?style=flat-square" alt="live demo" /></a></p>
     </td>
     <td width="50%" valign="top">
       <h3>Sistema de Ventas · Feria</h3>
